@@ -24,7 +24,7 @@ public class hw5b1 {
         // max2(n, array);
         // cnt(a, n, array);
         // ssm(n, array);
-        chen(a, k, n, array);
+        // chen(a, k, n, array);
         // tim(n, array);
         // cnt2(n, array);
         // xoa(n, array);
